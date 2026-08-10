@@ -4,7 +4,7 @@
 
 A C++ implementation of a **(7,4) Hamming Code encoder** using the Eigen matrix library. This project reads four input data bits from a file, generates parity bits using matrix multiplication, and outputs the encoded 7-bit message using even parity logic.
 
-This project was created collaboratively as part of a computer engineering / computer science coursework project focused on error-correcting codes and digital communication concepts.
+This project was created collaboratively as part of a C++ coursework project.
 
 ---
 
